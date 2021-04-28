@@ -1,0 +1,37 @@
+body {
+    background-color: #5a3441;
+    color: blanchedalmond;
+}
+#header-nav {
+    border-radius: 0;
+    border: 0;
+}
+.navbar-brand h1 {
+    color: rgb(68, 67, 67);
+    margin-top: 0;
+    font-weight: bold;
+    margin-top: -10px;
+}
+#nav-list{
+    margin-top: 10px;
+}
+#nav-list a {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+#nav-list a:hover{
+    background: #b8b7b7;
+}
+.navbar-header button.navbar-toggle{
+    clear: both;
+    margin-top: -40px;
+}
+.row {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.tiles {
+    background-color: #c57f98;
+    clear: both;
+    height: 1000px;
+}
